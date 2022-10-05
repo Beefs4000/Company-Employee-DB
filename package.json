@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "seed": "node db/seeds/seed.js"
+    "seed": "node db/seeds/seed.js",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
@@ -15,7 +16,8 @@
     "inquirer": "^8.0.2",
     "missing": "^0.0.1",
     "mysql": "^2.18.1",
-    "mysql2": "^2.3.3"
+    "mysql2": "^2.3.3",
+    "console.table": "^0.10.0"
   },
   "devDependencies": {
     "@faker-js/faker": "^7.3.0",
