@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h3 align="center">E-commerce Art Store</h3>
+<h3 align="center">Company Employee Database</h3>
 <div>
   <p align="center">
     In this project I was tasked with making a simple employee database. Where users can access a database containing the depts, managers, roles, employees and salaries. You can also edit and delete as required. I used Node, inquirer and MySQL to create the database and interface.
